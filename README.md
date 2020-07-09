@@ -1,4 +1,4 @@
-### Hi there 👋
+This block will remain shallow until I find an idea to make you smile. In the meantime, here’s a [better block](https://block.sunappu.net).
 
 <!--
 **meduzen/meduzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
