@@ -1,5 +1,7 @@
 [![better block](https://github.com/meduzen/meduzen/raw/master/block.svg)](https://block.sunappu.net)
 
+[![better block](https://github.com/meduzen/meduzen/raw/master/block-smb3.svg)](https://block.sunappu.net)[![better block](https://github.com/meduzen/meduzen/raw/master/block-smb3.svg)](https://block.sunappu.net)
+
 <!--
 **meduzen/meduzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
