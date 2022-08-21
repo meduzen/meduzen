@@ -1,1 +1,1 @@
-[![?](https://github.com/meduzen/meduzen/raw/master/block.svg)](https://block.sunappu.net) [![?](https://github.com/meduzen/meduzen/raw/master/block-smb3.svg)](https://block.sunappu.net) [![?](https://github.com/meduzen/meduzen/raw/master/block-smw.svg)](https://block.sunappu.net)
+[![?](https://github.com/meduzen/meduzen/raw/main/block.svg)](https://block.sunappu.net) [![?](https://github.com/meduzen/meduzen/raw/main/block-smb3.svg)](https://block.sunappu.net) [![?](https://github.com/meduzen/meduzen/raw/main/block-smw.svg)](https://block.sunappu.net)
